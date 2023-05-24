@@ -1,0 +1,28 @@
+
+*{
+    border-width: 1px;
+    border-color: black(192, 116, 116);
+    border-style: solid;
+    margin: 4px;
+}
+body{
+    background-color: rgb(87, 124, 124);
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(21, 99, 38);
+}
+#sech{
+    display: flex;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    margin: 4px;
+    color: rgb(10, 10, 10);
+}
+
